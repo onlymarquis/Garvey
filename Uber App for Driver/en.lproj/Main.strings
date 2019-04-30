@@ -1,0 +1,39 @@
+
+/* Class = "UITableViewController"; title = "BookingViewController"; ObjectID = "3YK-zs-hms"; */
+"3YK-zs-hms.title" = "BookingViewController";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "7n2-B4-jZM"; */
+"7n2-B4-jZM.normalTitle" = "Log Out";
+
+/* Class = "UIViewController"; title = "DriverVC"; ObjectID = "E7z-FT-wAP"; */
+"E7z-FT-wAP.title" = "DriverVC";
+
+/* Class = "UIButton"; normalTitle = "Test"; ObjectID = "EXy-0A-Y75"; */
+"EXy-0A-Y75.normalTitle" = "Test";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "Fh4-dw-GN4"; */
+"Fh4-dw-GN4.normalTitle" = "Sign Up";
+
+/* Class = "UIViewController"; title = "SignInVC"; ObjectID = "WE3-MS-35N"; */
+"WE3-MS-35N.title" = "SignInVC";
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "WUU-Cq-pN4"; */
+"WUU-Cq-pN4.text" = "My Profile";
+
+/* Class = "UIButton"; normalTitle = "User"; ObjectID = "dJL-Fr-CjP"; */
+"dJL-Fr-CjP.normalTitle" = "User";
+
+/* Class = "UITextField"; placeholder = "enter username"; ObjectID = "f2h-m7-WML"; */
+"f2h-m7-WML.placeholder" = "enter username";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "puG-ek-6F4"; */
+"puG-ek-6F4.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "enter password"; ObjectID = "qTN-bU-LGO"; */
+"qTN-bU-LGO.placeholder" = "enter password";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "r7W-Zk-hwE"; */
+"r7W-Zk-hwE.title" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "wTd-tu-iuf"; */
+"wTd-tu-iuf.title" = "Item";
