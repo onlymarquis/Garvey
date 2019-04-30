@@ -1,5 +1,6 @@
-# Garvey
+# Garvey 
+# Barber-shop uber-clone
 
-![Screen Shot 2019-04-30 at 8 12 50 AM](https://user-images.githubusercontent.com/39802816/56961172-0d22fb80-6b21-11e9-91b5-18a6a4da487d.png)
-
-![Screen Shot 2019-04-30 at 8 24 33 AM](https://user-images.githubusercontent.com/39802816/56961458-d26d9300-6b21-11e9-9a03-7c704cdd9d18.png)
+![Screen Shot 2019-04-30 at 8 25 56 AM](https://user-images.githubusercontent.com/39802816/56961555-09dc3f80-6b22-11e9-81ef-13d105ef956f.png)
+![Screen Shot 2019-04-30 at 8 26 07 AM](https://user-images.githubusercontent.com/39802816/56961556-0ba60300-6b22-11e9-94a6-dd2b1d792b9f.png)
+![Screen Shot 2019-04-30 at 8 26 31 AM](https://user-images.githubusercontent.com/39802816/56961558-0d6fc680-6b22-11e9-8518-61995ee30b0f.png)
